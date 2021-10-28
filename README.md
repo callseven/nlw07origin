@@ -19,6 +19,10 @@ Projeto Roquet.q (Rockall.X)  NLW#6 - Discover
 - EJS
 - Express
 - SQLite
+- Github
+- API
+- JSON
+- Github pages
 
 ## 💻 Descrição do Projeto
 
