@@ -4,10 +4,10 @@
 Badge
 </h1>
 
-![Captura de Tela 2021-06-29 às 20 40 22](https://user-images.githubusercontent.com/7409421/123881048-47af9b00-d91a-11eb-98e7-73616d5969b3.png)
+![Captura de Tela 2021-10-27 às 23 41 14](https://user-images.githubusercontent.com/7409421/139177039-0285e304-c1c3-4e42-9a74-b6e2923025c5.png)
 
 
-Projeto Roquet.q (Rockall.X)  NLW#6 - Discover
+Projeto Badge.X  NLW#7 - Origin
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -16,9 +16,6 @@ Projeto Roquet.q (Rockall.X)  NLW#6 - Discover
 - CSS
 - JavaScript
 - NodeJS
-- EJS
-- Express
-- SQLite
 - Github
 - API
 - JSON
@@ -26,7 +23,7 @@ Projeto Roquet.q (Rockall.X)  NLW#6 - Discover
 
 ## 💻 Descrição do Projeto
 
-O Rockall.X é uma interação através de perguntas, cadastrar sala para usuários anônimos fazerem perguntas e gerenciamento por senha das perguntas e marcar como lidas.
+O Badge.X é a criação de uma etiqueta com link para social medias que podem ser trocadas conforme o usuário apenas alterando o nome do usuário das mídias sociais.
 
 ## 🔖 Layout
 
