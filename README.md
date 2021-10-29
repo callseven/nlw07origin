@@ -1,7 +1,7 @@
 # NLW 07 Trilha Origin
 
 <h1 align="center">
-Badge
+Badge Call
 </h1>
 
 
@@ -15,7 +15,6 @@ Projeto Badge.X  NLW#7 - Origin
 - HTML
 - CSS
 - JavaScript
-- NodeJS
 - Github
 - API
 - JSON
