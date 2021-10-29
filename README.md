@@ -4,8 +4,8 @@
 Badge
 </h1>
 
-![Captura de Tela 2021-10-27 às 23 41 14](https://user-images.githubusercontent.com/7409421/139177039-0285e304-c1c3-4e42-9a74-b6e2923025c5.png)
 
+![Captura de Tela 2021-10-28 às 22 01 09](https://user-images.githubusercontent.com/7409421/139356414-f870b2df-9de6-49fd-853f-3c95ace59f7e.png)
 
 Projeto Badge.X  NLW#7 - Origin
 
