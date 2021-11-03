@@ -37,3 +37,5 @@ Layout do projeto no Figma [ link ](https://www.figma.com/community/file/1031698
 ## Desafio
 
 Criar uma versão para Tablet e outra para Desktop utilizando Media Qyery
+
+Link para versão online git https://callseven.github.io/nlw07origin/
